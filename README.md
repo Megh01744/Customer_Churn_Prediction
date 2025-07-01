@@ -1,6 +1,6 @@
 # Customer_Churn_Prediction
 
-📊 Telco Customer Churn Analysis (Python Project)
+ Telco Customer Churn Analysis (Python Project)
 
 This project analyzes customer churn behavior in a telecom company using Python. The goal is to uncover insights into what drives customer attrition using exploratory data analysis — **no machine learning models were used**.
 
@@ -13,7 +13,7 @@ This project analyzes customer churn behavior in a telecom company using Python.
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 - Python
 - Pandas, NumPy
