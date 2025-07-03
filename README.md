@@ -61,7 +61,7 @@ This project analyzes customer churn behavior in a telecom company using Python.
 
 - `telco_churn_analysis(2).ipynb` – Jupyter Notebook with full code
 - `README.md` – This file
-- (Optional) Dataset CSV (if allowed to be shared)
+  
 
 ---
 
